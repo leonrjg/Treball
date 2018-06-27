@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Treball</string>
+    <string name="action_refresh">Resetear preferencias</string>
+    <string name="title_activity_detail">Oferta de empleo</string>
+    <string name="search">Buscar</string>
+    <string name="city">Lugares</string>
+    <string name="categories">Categorías</string>
+    <string name="listing">Listado</string>
+    <string name="loading_offers">Cargando ofertas...</string>
+    <string name="loading_cities">Cargando ubicaciones...</string>
+    <string name="loading_categories">Cargando categorías...</string>
+    <string name="api_unavailable">La API de Treball no está disponible. Intenta de nuevo más tarde.</string>
+</resources>
